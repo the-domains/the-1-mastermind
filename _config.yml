@@ -1,0 +1,14 @@
+layout_spectrum: 0.1971326
+typography_spectrum: 0.8458781
+color:
+  saturation: 0.4964158
+  lightness: 0.7616488
+  brandStrength: 0.5580461
+  brandColors:
+    - '#2F4363'
+    - '#ACB5B5'
+    - '#4B77A3'
+    - '#E0E9D8'
+    - '#1F2728'
+  rhythmicContrast: 0.4140723
+name: The $1 Mastermind
